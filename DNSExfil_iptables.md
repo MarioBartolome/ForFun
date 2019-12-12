@@ -1,4 +1,4 @@
-When attempting to run `iptables` without SuperCow privileges on Debian 10 Buster, a SEGFAULT is produced. 
+When attempting to run `iptables` without SuperCow privileges on Debian 10 Buster, a SEGFAULT is produced. [more here!](https://github.com/MarioBartolome/ForFun/blob/1758a8af783cafb179fc16c46c9610486c2ab1e0/iptables%20SEGFAULT%20Hunt.md)
 
 I found this little problem while (by error) tried to set a new rule on my OUTPUT chain without sudo: 
 ![image](https://user-images.githubusercontent.com/23175380/70739024-368e4180-1d16-11ea-85f7-4e1bbc39c44a.png)
