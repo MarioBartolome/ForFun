@@ -1,4 +1,4 @@
-So, as shown at[Clumsy keyboard](https://github.com/MarioBartolome/ForFun/blob/747d3b4a8cb37eaecf3efdc0857e128932a3077e/DNSExfil_iptables.md) a SEGFAULT is triggered when attempting to use `iptables` without the sufficient privileges. Let's have a look to it!
+So, as shown at [Clumsy keyboard](https://github.com/MarioBartolome/ForFun/blob/747d3b4a8cb37eaecf3efdc0857e128932a3077e/DNSExfil_iptables.md) a SEGFAULT is triggered when attempting to use `iptables` without the sufficient privileges. Let's have a look to it!
 
 ---
 
