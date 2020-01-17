@@ -3,8 +3,8 @@
 This is the first of three mini-posts where I will write about some fun discoveries
 
 - **1/3: Dissecting a ~~piñata~~Router**
-- 2/3: [CVE-2019-14919, CVE-2019-14920. Inspecting a router's firmware and reversing binaries to achieve RCE](https://github.com/MarioBartolome/blob/master/HW-Hacking/Firmware-Inspection.md)
-- 3/3: [CVE-2019-14918. Stored XSS via DHCP injection](https://github.com/MarioBartolome/blob/master/XSS-Injection-via-DHCP-requests.md)
+- 2/3: [CVE-2019-14919, CVE-2019-14920. Inspecting a router's firmware and reversing binaries to achieve RCE](https://github.com/MarioBartolome/ForFun/blob/master/HW-Hacking/Firmware-Inspection.md)
+- 3/3: [CVE-2019-14918. Stored XSS via DHCP injection](https://github.com/MarioBartolome/ForFun/blob/master/HW-Hacking/XSS-Injection-via-DHCP-requests.md)
 
 # 0x01/0x03 : Dissecting a ~~piñata~~Router
 
