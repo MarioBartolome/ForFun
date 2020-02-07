@@ -7,3 +7,4 @@
 - [Clumsy keyboard == (New?) DNS Exfiltration tool](https://github.com/MarioBartolome/ForFun/blob/master/DNSExfil_iptables.md)
 - [Tracing the iptables SEGFAULT](https://github.com/MarioBartolome/ForFun/blob/master/iptables%20SEGFAULT%20Hunt.md)
 - [Some HardWare Hacking!](https://github.com/MarioBartolome/ForFun/tree/master/HW-Hacking)
+- [Hooking Linux's Dynamic Linker with Frida!](https://github.com/MarioBartolome/ForFun/blob/master/HookingLinuxDynLink.md)
